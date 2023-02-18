@@ -9,4 +9,4 @@ ferpotenUCLM/ferpotenUCLM is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-C/C++/JAVA/PYTHON/SQL/VISUAL BASIC/....
+C/C++/ PROJECTS DEDICATED REPOSITORY
